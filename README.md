@@ -3,6 +3,8 @@
 ## Description
 VirtualR is a virtual reality application designed to show power of tailwind framework.
 
+[Perview](https://virtualr-snowy.vercel.app/)
+
 ## Table of Contents
 - [Screenshot](#screenshot)
 - [Installation](#installation)
